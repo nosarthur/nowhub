@@ -2,11 +2,13 @@
 
 The purpose of this page is to promote and to recruit.
 Please strive to make the information **concise, accurate, and up-to-date**.
+For a concrete example, see the [gita project page](https://github.com/nosarthur/open-source-market/blob/master/projects/gita.md).
 
-Beside the badges in [README.md](https://github.com/nosarthur/open-source-market/blob/master/README.md) (time-span, category, MVP), you can add other
-badges to showcase the project.
-[shields.io](https://shields.io) provides a big collection of
-descriptive badges for open source projects.
+Beside the badges in [README.md](https://github.com/nosarthur/open-source-market/blob/master/README.md) (time-span, category, MVP), you can add
+more here to showcase the project.
+A big collection of descriptive badges is available
+on [shields.io](https://shields.io) for open source projects.
+
 For example,
 
 - [activity](https://shields.io/category/activity)

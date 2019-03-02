@@ -7,9 +7,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nosarthur/gita.svg)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/gita.svg)](https://pypistats.org/packages/gita)
 
-# gita: a command-line tool to manage multiple git repos
-
-[project page](https://github.com/nosarthur/gita)
+# [gita: a command-line tool to manage multiple git repos](https://github.com/nosarthur/gita)
 
 ## purpose
 
@@ -19,6 +17,8 @@ This tool does two things
 
 - display the status of multiple git repos such as branch, modification, commit message side by side
 - delegate git commands/aliases from any working directory
+
+![gita screenshot](https://github.com/nosarthur/gita/raw/master/screenshot.png)
 
 ## tech stack
 
@@ -30,8 +30,8 @@ This tool does two things
 
 ## timeline
 
-1. milestone
-1. milestone 2
+Currently we don't have big milestones in mind.
+Only minor features and bug fixes.
 
 ## communication
 
