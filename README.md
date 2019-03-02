@@ -21,7 +21,8 @@ When making a **pull request**, please
 
 ## market place
 
-- [gita](https://github.com/nosarthur/open-source-market/blob/master/projects/gita.md): a command-line tool to manage multiple git repos ![1 month][1m] ![DT][dt] ![MVP][mvp]
+- [gita](https://github.com/nosarthur/open-source-market/blob/master/projects/gita.md): a command-line tool to manage multiple git repos ![1 month][1m] ![developer tool][dt] ![MVP][mvp]
+- [open-source-market](https://github.com/nosarthur/open-source-market/blob/master/projects/open-source-market.md): find open source projects and collaborators ![long term][1d] ![web application][wa] ![MVP][mvp]
 
 [1m]: https://img.shields.io/badge/-1month-lightgrey.svg
 [3m]: https://img.shields.io/badge/-3month-lightgrey.svg

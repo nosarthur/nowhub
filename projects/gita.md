@@ -35,7 +35,7 @@ Only minor features and bug fixes.
 
 ## communication
 
-The preferred way to communicate is using
+The preferred way is
 
 - github ecosystem
 
