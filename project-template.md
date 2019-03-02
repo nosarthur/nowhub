@@ -1,15 +1,25 @@
-# <project name>: <short description>
+# project-name (badges...): short description
 
-Beside the tags in 
+The purpose of this page is to promote and to recruit.
+Please strive to make the information **concise, accurate, and up-to-date**.
 
-https://shields.io
+Beside the badges in [README.md](https://github.com/nosarthur/open-source-market/README.md) (time-span, category, MVP), you can add other
+badges to showcase the project.
+[shields.io](https://shields.io) provides a big collection of
+descriptive badges for open source projects.
+For example,
 
 - [activity](https://shields.io/category/activity)
-    - contributors
-    - last commit
-    - commit activity
+  - contributors
+  - last commit
+  - commit activity
+- [test coverage](https://shields.io/category/coverage)
+- [size](https://shields.io/category/size)
+- [downloads](https://shields.io/category/downloads)
 
 ## purpose
+
+What problem does this project solve? What value does it create?
 
 ## tech stack
 
@@ -20,14 +30,21 @@ For example,
 - postgres
 - REST API
 - gRPC
+- tensorflow
 
-## timeline
+## project plan
 
-For better project management, the owner is encouraged to provide rough
-timelines for the development cycles
+Please include a brief summary of the **current status** and a rough
+timelines for the development cycles.
 
-1. milestone 
-1. milestone 2
+For example,
+
+The milestones are
+
+1. database models: 2 weeks
+1. REST API: 2 week
+1. javascript frontend: 3 weeks
+1. machine learning micro service: 4 weeks
 
 ## communication
 
