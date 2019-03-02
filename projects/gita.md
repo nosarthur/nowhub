@@ -6,6 +6,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nosarthur/gita.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nosarthur/gita.svg)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/gita.svg)](https://pypistats.org/packages/gita)
+![github stars](https://img.shields.io/github/stars/nosarthur/gita.svg)
 
 # [gita: a command-line tool to manage multiple git repos](https://github.com/nosarthur/gita)
 

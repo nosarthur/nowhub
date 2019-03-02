@@ -1,11 +1,14 @@
+![github stars](https://img.shields.io/github/stars/nosarthur/open-source-market.svg)
+[![license](https://img.shields.io/github/license/nosarthur/open-source-market.svg)](https://github.com/nosarthur/open-source-market/blob/master/LICENSE)
+
 # open-source-market
 
-The purpose of this repo is to help **novice programmers** to find open source
+> The purpose of this repo is to help **novice programmers** to find open source
 projects to work on, and help **project owners** to find contributors. Pre-release and short-term projects are preferred.
 
 To showcase the project, the project owner provides
 
-- 1 line description of the project in the [market place](https://github.com/nosarthur/open-source-market#market-place), which links to
+- 1 line description of the project in the [market place](#market-place), which links to
 - 1 page description with more details, see [project template](https://github.com/nosarthur/open-source-market/blob/master/template.md).
 
 The following badges will be displayed
@@ -21,8 +24,8 @@ When making a **pull request**, please
 
 ## market place
 
-- [gita](https://github.com/nosarthur/open-source-market/blob/master/projects/gita.md): a command-line tool to manage multiple git repos ![1 month][1m] ![developer tool][dt] ![MVP][mvp]
-- [open-source-market](https://github.com/nosarthur/open-source-market/blob/master/projects/open-source-market.md): find open source projects and collaborators ![long term][1d] ![web application][wa] ![MVP][mvp]
+- [gita](projects/gita.md): a command-line tool to manage multiple git repos ![1 month][1m] ![developer tool][dt] ![MVP][mvp]
+- [open-source-market](projects/open-source-market.md): find open source projects and collaborators ![long term][1d] ![web application][wa] ![MVP][mvp]
 
 [1m]: https://img.shields.io/badge/-1month-lightgrey.svg
 [3m]: https://img.shields.io/badge/-3month-lightgrey.svg
