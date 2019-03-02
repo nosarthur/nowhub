@@ -1,7 +1,7 @@
 # open-source-market
 
-The purpose of this project is to help **novice programmers** to find open source
-projects to work on, and help **project owners** to find contributors.
+The purpose of this repo is to help **novice programmers** to find open source
+projects to work on, and help **project owners** to find contributors. Pre-release and short-term projects are preferred.
 
 To showcase the project, the project owner provides
 
@@ -11,10 +11,10 @@ To showcase the project, the project owner provides
 The following badges will be displayed
 
 - time estimate: ![1 month][1m] ![3 month][3m] ![6 month][6m] ![1 year][1y] ![1 decade][1d]
-- category (multiple category can apply) ![data science][ds] ![developer tool][dt] ![web application][wa]
-- existence of minimum viable product ![MVP][mvp]
+- category: (multiple category can apply) ![data science][ds] ![developer tool][dt] ![web application][wa]
+- existence of minimum viable product: ![MVP][mvp]
 
-When making a pull request, please
+When making a **pull request**, please
 
 - add your project to README.md with the project name in alphabetic order
 - add a project page following the [project template](https://github.com/nosarthur/open-source-market/blob/master/project-template.md).

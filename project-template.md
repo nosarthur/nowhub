@@ -41,10 +41,11 @@ For example,
 
 The milestones are
 
-1. database models: 3 weeks
-1. REST API: 2 week
-1. javascript frontend: 3 weeks
-1. machine learning micro service: 4 weeks
+- database models: 3 weeks
+- REST API: 2 week
+- javascript frontend: 3 weeks
+- machine learning micro service: 1 month
+- machine learning model: 1 month
 
 Currently, we have a MVP that implements
 
