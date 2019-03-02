@@ -3,7 +3,7 @@
 The purpose of this page is to promote and to recruit.
 Please strive to make the information **concise, accurate, and up-to-date**.
 
-Beside the badges in [README.md](https://github.com/nosarthur/open-source-market/README.md) (time-span, category, MVP), you can add other
+Beside the badges in [README.md](https://github.com/nosarthur/open-source-market/blob/master/README.md) (time-span, category, MVP), you can add other
 badges to showcase the project.
 [shields.io](https://shields.io) provides a big collection of
 descriptive badges for open source projects.
@@ -34,17 +34,23 @@ For example,
 
 ## project plan
 
-Please include a brief summary of the **current status** and a rough
-timelines for the development cycles.
+Please include a brief summary of the **current status** and a **rough
+timelines** for the development cycles.
 
 For example,
 
 The milestones are
 
-1. database models: 2 weeks
+1. database models: 3 weeks
 1. REST API: 2 week
 1. javascript frontend: 3 weeks
 1. machine learning micro service: 4 weeks
+
+Currently, we have a MVP that implements
+
+- user authentication
+- sketchy dashboard
+- vanilla variational autoencoder which is not exposed to frontend
 
 ## communication
 
