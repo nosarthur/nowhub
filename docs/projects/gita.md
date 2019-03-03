@@ -12,7 +12,7 @@
 
 ## purpose
 
-If several repos compile together, it helps to see their status together too. I also hate to change directories to execute git commands.
+> If several repos compile together, it helps to see their status together too. I also hate to change directories to execute git commands.
 
 This tool does two things
 
@@ -25,9 +25,9 @@ This tool does two things
 
 - git
 - python
-  - argparse
-  - subprocess
-  - asyncio
+    - argparse
+    - subprocess
+    - asyncio
 
 ## timeline
 

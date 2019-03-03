@@ -1,0 +1,8 @@
+site_name: Open Source Market
+site_url:
+site_author: Dong Zhou
+theme:
+  name: bootstrap
+google_analytics: ['', '']
+repo_url: https://github.com/nosarthur/open-source-market
+

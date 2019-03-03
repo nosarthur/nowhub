@@ -1,5 +1,5 @@
 BASEDIR=$(CURDIR)
-DOCDIR=$(BASEDIR)/docs
+DOCSDIR=$(BASEDIR)/docs
 
 serve:
 	$(MAKE) link
@@ -10,5 +10,7 @@ deploy:
 	mkdocs gh-deploy --clean
 
 link:
-	ln -sf $(BASEDIR)/README.md $(DOCDIR)/index.md
-	ln -sf $(BASEDIR)/projects $(DOCDIR)/projects
+	ln -sf $(BASEDIR)/README.md $(DOCSDIR)/index.md
+
+install:
+	pip install -r requirements.txt
