@@ -31,8 +31,14 @@ using some javascript framework.
 
 ## timeline
 
-- database models: 2 month
-- html templates: 1 month
+Here the timeline refers to V1.
+
+- read-only version: 6 months
+    - show existing projects: 2 months
+- full version with user interaction: 8 months
+    - add projects: 3 weeks
+    - user login: 1 week
+    - vote: 2 weeks
 
 ## communication
 
