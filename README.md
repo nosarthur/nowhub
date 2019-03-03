@@ -8,8 +8,8 @@ projects to work on, and help **project owners** to find contributors. Pre-relea
 
 To showcase the project, the project owner provides
 
-- 1 line description of the project in the [market place](#market-place), which links to
-- 1 page description with more details, see [project template](https://github.com/nosarthur/open-source-market/blob/master/template.md).
+- 1-line description of the project in the [market place](#market-place), which links to
+- 1-page description with more details, see [project template](https://github.com/nosarthur/open-source-market/blob/master/template.md).
 
 The following badges will be displayed
 
@@ -19,8 +19,8 @@ The following badges will be displayed
 
 When making a **pull request**, please
 
-- add your project to README.md with the project name in alphabetic order
-- add a project page following the [project template](https://github.com/nosarthur/open-source-market/blob/master/template.md).
+- add your project's 1-line description to README.md with the project name in alphabetic order
+- add your 1-page description to [docs/projects](docs/projects) following the [project template](https://github.com/nosarthur/open-source-market/blob/master/template.md).
 
 ## market place
 

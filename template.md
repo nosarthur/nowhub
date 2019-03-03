@@ -63,5 +63,6 @@ For example,
 
 - slack
 - github ecosystem
+- twitter
 - email
 - etc

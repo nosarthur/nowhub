@@ -19,11 +19,13 @@ The MVP version uses
 Currently we are working on version 1 which uses
 
 - django
-- sqlite3
+- postgres
 - gcloud
 - docker
 
-When the number of projects get large, we can use postgres for example.
+I see V1 to be similar to hacker news where old listings fade out and users can
+vote on projects.
+
 If the project grows further, we can think about splitting the frontend part
 using some javascript framework.
 
