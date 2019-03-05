@@ -1,7 +1,7 @@
 # Open Source Market
 # version 1.0.0
 
-From python:3.7-slim
+From python:3.7.2-slim
 
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
