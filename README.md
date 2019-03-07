@@ -22,7 +22,7 @@ When making a **pull request**, please
 - add your project's 1-line description to README.md with the project name in alphabetic order
 - add your 1-page description to [docs/projects](docs/projects) following the [project template](https://github.com/nosarthur/open-source-market/blob/master/template.md).
 
-## market place
+## projects
 
 - [gita](projects/gita.md): a command-line tool to manage multiple git repos ![1 month][1m] ![developer tool][dt] ![MVP][mvp]
 - [open-source-market](projects/open-source-market.md): find open source projects and collaborators ![long term][1yp] ![web application][wa] ![MVP][mvp]
