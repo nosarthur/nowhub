@@ -1,7 +1,7 @@
-![github stars](https://img.shields.io/github/stars/nosarthur/open-source-market.svg)
-[![license](https://img.shields.io/github/license/nosarthur/open-source-market.svg)](https://github.com/nosarthur/open-source-market/blob/master/LICENSE)
+![github stars](https://img.shields.io/github/stars/nosarthur/newhub.svg)
+[![license](https://img.shields.io/github/license/nosarthur/newhub.svg)](https://github.com/nosarthur/newhub/blob/master/LICENSE)
 
-# [open-source-market: find open source projects and collaborators](https://github.com/nosarthur/open-source-market)
+# [newhub: find open source projects and collaborators](https://github.com/nosarthur/newhub)
 
 ## purpose
 
@@ -44,6 +44,6 @@ Here the timeline refers to V1.
 
 The preferred ways are
 
-- [slack](https://opensourcemarket.slack.com/)
+- [slack](https://.slack.com/)
 - github ecosystem
 

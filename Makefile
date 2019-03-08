@@ -11,6 +11,7 @@ deploy:
 
 link:
 	ln -sf $(BASEDIR)/README.md $(DOCSDIR)/index.md
+	#ln -sf $(BASEDIR)/template.md $(DOCSDIR)/template.md
 
 install:
 	pip install -r requirements.txt

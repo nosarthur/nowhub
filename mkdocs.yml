@@ -1,12 +1,10 @@
-site_name: Open Source Market
+site_name: New Hub
 site_url:
 site_author: Dong Zhou
+google_analytics: ['', '']
+repo_url: https://github.com/nosarthur/newhub
 
 theme:
     name: bootstrap
     custom_dir: custom_theme/
-
-
-google_analytics: ['', '']
-repo_url: https://github.com/nosarthur/open-source-market
 

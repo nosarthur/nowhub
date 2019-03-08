@@ -41,19 +41,19 @@ timelines** for the development cycles.
 
 For example,
 
-The milestones are
+Currently, we have a MVP that implements
+
+- user authentication
+- sketchy dashboard
+- vanilla variational autoencoder which is not exposed to frontend
+
+The future milestones are
 
 - database models: 3 weeks
 - REST API: 2 week
 - javascript frontend: 3 weeks
 - machine learning micro service: 1 month
 - machine learning model: 1 month
-
-Currently, we have a MVP that implements
-
-- user authentication
-- sketchy dashboard
-- vanilla variational autoencoder which is not exposed to frontend
 
 ## communication
 
