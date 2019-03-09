@@ -1,5 +1,17 @@
 # References
 
+## Notes
+
+Production server log
+
+```
+gcloud app logs tail
+```
+
+Right now I use `make deploy`, which is very slow.
+Maybe it's faster to push from local to repo,
+then pull from repo to gcloud shell, then `make deploy` there.
+
 ## Deployment
 
 - [Beginner’s Guide to Deploying a Django + PostgreSQL project on Google Cloud’s Flexible App Engine](https://codeburst.io/beginners-guide-to-deploying-a-django-postgresql-project-on-google-cloud-s-flexible-app-engine-e3357b601b91)
