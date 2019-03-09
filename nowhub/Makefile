@@ -1,4 +1,4 @@
-.PHONY: test shell migrate run upload
+.PHONY: test shell migrate run upload deploy
 
 run:
 	python3 manage.py runserver
@@ -12,3 +12,8 @@ migrate:
 
 upload:
 	#gcloud compute scp db.sqlite3 instance-1:~nos/ckc00.us
+	gsutil cp ../docs/projects/*.md gs://nowhub/projects/
+deploy:
+	gcloud app deploy app.yaml --project nowhub
+log:
+	gcloud app logs read

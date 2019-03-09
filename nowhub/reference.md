@@ -2,6 +2,7 @@
 
 ## Deployment
 
+- [Beginner’s Guide to Deploying a Django + PostgreSQL project on Google Cloud’s Flexible App Engine](https://codeburst.io/beginners-guide-to-deploying-a-django-postgresql-project-on-google-cloud-s-flexible-app-engine-e3357b601b91)
 - [Install Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-using-the-repository)
 - [Docker Compose for Django/PostgreSQL app](https://docs.docker.com/compose/django/)
 - [Jake Wright's web development vlog](https://www.youtube.com/watch?v=YFl2mCHdv24&list=PLlj9BrHKq9WKaz8UV3BjEqicn-C3qHxy4&index=6)

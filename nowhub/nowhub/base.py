@@ -21,7 +21,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'newhub.urls'
+ROOT_URLCONF = 'nowhub.urls'
 
 TEMPLATES = [
     {
@@ -58,7 +58,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-WSGI_APPLICATION = 'newhub.wsgi.application'
+WSGI_APPLICATION = 'nowhub.wsgi.application'
 
 
 # Internationalization

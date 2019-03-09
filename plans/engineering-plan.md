@@ -25,13 +25,13 @@ This sub-version would appear similar to version 0.
 
 ### milestone 2
 
-These features are less critical than the ones in milestone 1, and may only
-make sense when the project number is large.
+These features are less critical than the ones in milestone 1, and only
+makes sense with many projects.
 
-- comment
+- filtering based on category and time span
 - ranking with decay
 - pagination
-- filtering based on category and time span
+- comment
 
 ## version 2 (very tentative)
 

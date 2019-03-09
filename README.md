@@ -1,11 +1,11 @@
-![github stars](https://img.shields.io/github/stars/nosarthur/newhub.svg)
-[![license](https://img.shields.io/github/license/nosarthur/newhub.svg)](https://github.com/nosarthur/newhub/blob/master/LICENSE)
+![github stars](https://img.shields.io/github/stars/nosarthur/nowhub.svg)
+[![license](https://img.shields.io/github/license/nosarthur/nowhub.svg)](https://github.com/nosarthur/nowhub/blob/master/LICENSE)
 
-# NewHub
+# NowHub
 
 > The purpose of this project is to help **novice programmers** to find open source
-projects to work on, and help **project owners** to find contributors.
-Pre-release, short-term, and newbie-friendly projects are preferred.
+> projects to work on, and help **project owners** to find contributors.
+> Pre-release, short-term, and newbie-friendly projects are preferred.
 
 To showcase your project, please submit a **pull request** with
 
@@ -13,7 +13,7 @@ To showcase your project, please submit a **pull request** with
     1. category: RGB
     1. time estimate: short first
     1. project: existing first
-- 1-page description to [docs/projects](https://github.com/nosarthur/newhub/tree/master/docs/projects) following the [project template](https://github.com/nosarthur/newhub/blob/master/template.md).
+- 1-page proposal to [docs/projects](https://github.com/nosarthur/nowhub/tree/master/docs/projects) following the [project template](https://github.com/nosarthur/nowhub/blob/master/template.md).
 
 where valid badges are
 
@@ -24,7 +24,7 @@ where valid badges are
 ## projects
 
 - [gita](projects/gita.md): a command-line tool to manage multiple git repos ![1 month][1m] ![developer tool][dt] ![MVP][mvp]
-- [newhub](projects/newhub.md): find open source projects and collaborators ![long term][1yp] ![web application][wa] ![MVP][mvp]
+- [nowhub](projects/nowhub.md): find open source projects and collaborators ![long term][1yp] ![web application][wa] ![MVP][mvp]
 
 [1m]: https://img.shields.io/badge/-1month-lightgrey.svg
 [3m]: https://img.shields.io/badge/-3month-lightgrey.svg

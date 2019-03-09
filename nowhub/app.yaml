@@ -7,4 +7,4 @@ handlers:
   script: auto
 
 env_variables:
-  DJANGO_SETTINGS_MODULE: newhub.settings.production
+  DJANGO_SETTINGS_MODULE: nowhub.production
