@@ -20,25 +20,20 @@ Currently we are working on version 1 which uses
 
 - django
 - postgres
-- gcloud
-- docker
-
-I see V1 to be similar to hacker news where old listings fade out and users can
-vote on projects.
-
-If the project grows further, we can think about splitting the frontend part
-using some javascript framework.
+- google app engine
 
 ## timeline
 
-Here the timeline refers to V1.
+Currently the MVP version is online.
 
-- read-only version: 6 months
-    - show existing projects: 2 months
-- full version with user interaction: 8 months
-    - add projects: 3 weeks
-    - user login: 1 week
-    - vote: 2 weeks
+Verson 1 will be similar to hacker news.
+The milestones are
+
+- reproduce MVP with google app engine: 2 months
+- core version: 6 months
+- with user interaction: 6 months
+
+More details can be found in the [engineering plan](https://github.com/nosarthur/newhub/blob/master/plans/engineering-plan.md).
 
 ## communication
 

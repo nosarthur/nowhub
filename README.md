@@ -7,20 +7,19 @@
 projects to work on, and help **project owners** to find contributors.
 Pre-release, short-term, and newbie-friendly projects are preferred.
 
+To showcase your project, please submit a **pull request** with
 
-The following badges will be displayed
+- 1-line description below, with ordered
+    1. category: RGB
+    1. time estimate: short first
+    1. project: existing first
+- 1-page description to [docs/projects](https://github.com/nosarthur/newhub/tree/master/docs/projects) following the [project template](https://github.com/nosarthur/newhub/blob/master/template.md).
+
+where valid badges are
 
 - category: ![data science][ds] ![developer tool][dt] ![web application][wa]
 - time estimate: ![1 month][1m] ![3 month][3m] ![6 month][6m] ![1 year][1y] ![1 year plus][1yp]
 - existence of minimum viable product: ![MVP][mvp]
-
-To showcase the project, please submit a **pull request** with
-
-- 1-line description below, with ordered
-    - category: RGB
-    - time estimate: short first
-    - project name: existing first
-- 1-page description to [docs/projects](https://github.com/nosarthur/newhub/tree/master/docs/projects) following the [project template](https://github.com/nosarthur/newhub/blob/master/template.md).
 
 ## projects
 
