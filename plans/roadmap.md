@@ -1,4 +1,10 @@
-# engineering plan
+# project roadmap
+
+Overall, we should strive to obtain
+
+- frequent deployment
+- high test coverage
+- decoupled modules
 
 ## version 0
 
@@ -12,10 +18,10 @@
 
 ### milestone 0
 
-This sub-version would appear similar to version 0.
+This sub-version should look and behave the same as version 0.
 
-- no db
-- serve rendered project markdown files
+- serve project markdown files from django
+- accept new projects from PR
 
 ### milestone 1
 
