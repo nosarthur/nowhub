@@ -3,21 +3,22 @@
 
 # NowHub
 
-> The purpose of this project is to help **novice programmers** to find open source
-> projects to work on, and help **project owners** to find contributors.
+> The purpose of this project is to help **novice programmers** find open source
+> projects to work on, and help **project owners** find contributors.
 > Pre-release, short-term, and newbie-friendly projects are preferred.
 
 To showcase your project, please submit a **pull request** with
 
-- 1-line description below, with ordered
-    1. category: RGB
+- 1-line summary below, with ordered
+    1. category: RGBC
     1. time estimate: short first
     1. project: existing first
-- 1-page proposal to [docs/projects](https://github.com/nosarthur/nowhub/tree/master/docs/projects) following the [project template](https://github.com/nosarthur/nowhub/blob/master/template.md).
+- 1-page description to [docs/projects](https://github.com/nosarthur/nowhub/tree/master/docs/projects)
+  following the [project template](https://github.com/nosarthur/nowhub/blob/master/template.md)
 
 where valid badges are
 
-- category: ![data science][ds] ![developer tool][dt] ![web application][wa]
+- category: ![data science][ds] ![developer tool][dt] ![web application][wa] ![mobile application][ma]
 - time estimate: ![1 month][1m] ![3 month][3m] ![6 month][6m] ![1 year][1y] ![1 year plus][1yp]
 - existence of minimum viable product: ![MVP][mvp]
 
@@ -34,4 +35,5 @@ where valid badges are
 [ds]: https://img.shields.io/badge/-data--science-red.svg
 [dt]: https://img.shields.io/badge/-developer--tool-brightgreen.svg
 [wa]: https://img.shields.io/badge/-web--application-blue.svg
+[ma]: https://img.shields.io/badge/-mobile--application-9cf.svg
 [mvp]: https://img.shields.io/badge/-MVP-yellow.svg

@@ -3,7 +3,6 @@
 ![Codecov](https://img.shields.io/codecov/c/github/nosarthur/gita.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/nosarthur/gita.svg)
 [![licence](https://img.shields.io/pypi/l/gita.svg)](https://github.com/nosarthur/gita/blob/master/LICENSE)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nosarthur/gita.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nosarthur/gita.svg)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/gita.svg)](https://pypistats.org/packages/gita)
 ![github stars](https://img.shields.io/github/stars/nosarthur/gita.svg)
@@ -31,8 +30,7 @@ This tool does two things
 
 ## timeline
 
-Currently we don't have big milestones in mind.
-Only minor features and bug fixes.
+Currently no milestone is planned. Only minor features and bug fixes.
 
 ## communication
 
@@ -40,4 +38,4 @@ The preferred way is
 
 - github ecosystem
 
-For example, report/fix bugs, request/implement features.
+For example, report bugs and request features as issues.
