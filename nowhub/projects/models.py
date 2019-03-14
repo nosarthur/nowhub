@@ -9,5 +9,5 @@ class Project(models.Model):
     description = models.CharField(max_length=255)
 
     REQUIRED_FIELDS = [
-        'title',
+        'title', 'description',
     ]
