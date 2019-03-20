@@ -1,7 +1,7 @@
 site_name: Now Hub
-site_url: http://nowhub.org
+site_url: https://nowhub.org
 site_author: Dong Zhou
-google_analytics: ['', '']
+google_analytics: ['UA-136584099-1', 'nowhub.org']
 repo_url: https://github.com/nosarthur/nowhub
 
 theme:
