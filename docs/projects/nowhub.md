@@ -33,7 +33,7 @@ The milestones are
 - core version: 5 months
 - with user interaction: 6 months
 
-More details can be found in the [engineering plan](https://github.com/nosarthur/nowhub/blob/master/plans/engineering-plan.md).
+More details can be found in the [roadmap.md](https://github.com/nosarthur/nowhub/blob/master/plans/roadmap.md).
 
 ## communication
 

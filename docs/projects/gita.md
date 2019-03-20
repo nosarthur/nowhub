@@ -23,10 +23,7 @@ This tool does two things
 ## tech stack
 
 - git
-- python
-    - argparse
-    - subprocess
-    - asyncio
+- python: argparse, subprocess, asyncio
 
 ## timeline
 
