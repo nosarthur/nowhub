@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>http://nowhub.org/</loc>
+     <loc>https://nowhub.org/</loc>
      <lastmod>2019-03-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://nowhub.org/projects/gita/</loc>
+     <loc>https://nowhub.org/projects/gita/</loc>
      <lastmod>2019-03-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://nowhub.org/projects/nowhub/</loc>
+     <loc>https://nowhub.org/projects/nowhub/</loc>
      <lastmod>2019-03-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
