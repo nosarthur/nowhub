@@ -1,8 +1,10 @@
-# project-name (badges...): short description
+(badges...)
+
+# project-name: short description
 
 The purpose of this page is to promote and to recruit.
 Please strive to make the information **concise, accurate, and up-to-date**.
-For a concrete example, see the [gita project page](https://github.com/nosarthur/open-source-market/blob/master/projects/gita.md).
+For a concrete example, see the [nowhub project page](https://github.com/nosarthur/open-source-market/blob/master/docs/projects/nowhub.md).
 
 Beside the badges in [README.md](https://github.com/nosarthur/open-source-market/blob/master/README.md) (time-span, category, MVP), you can add
 more here to showcase the project.
