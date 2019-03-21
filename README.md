@@ -1,4 +1,5 @@
 ![github stars](https://img.shields.io/github/stars/nosarthur/nowhub.svg)
+[![Build Status](https://travis-ci.org/nosarthur/nowhub.svg?branch=master)](https://travis-ci.org/nosarthur/nowhub)
 [![license](https://img.shields.io/github/license/nosarthur/nowhub.svg)](https://github.com/nosarthur/nowhub/blob/master/LICENSE)
 
 # NowHub
