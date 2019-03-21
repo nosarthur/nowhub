@@ -4,6 +4,6 @@ python:
 install:
     - pip install -r nowhub/requirements.txt
 script:
-    - python nowhub/manage.py test --parallel
+    - python nowhub/manage.py test nowhub/ --parallel
 after_success:
     - bash <(curl -s https://codecov.io/bash)
