@@ -1,24 +1,17 @@
 .PHONY: test shell migrate run upload deploy
 
-# Use the correct python call for specific OS
-ifeq ($(OS),Windows_NT)
-PY=py
-else
-PY=python3
-endif
-
 # local dev
 run:
-	$(PY) manage.py runserver
+	python3 manage.py runserver
 test:
-	$(PY) manage.py test --parallel
+	python3 manage.py test --parallel
 shell:
-	$(PY) manage.py shell
+	python3 manage.py shell
 migrate:
-	$(PY) manage.py makemigrations
-	$(PY) manage.py migrate
+	python3 manage.py makemigrations
+	python3 manage.py migrate
 collectstatic:
-	$(PY) manage.py collectstatic
+	python3 manage.py collectstatic
 
 # remote
 upload:
